@@ -7,10 +7,11 @@
              <li><router-link to="/add" exact>Add Item</router-link></li>
              <li><router-link to="/list" exact>List</router-link></li>
              <li><router-link to="/axios" exact>Axios</router-link></li>
+             <li><router-link to="/week10" exact>Week 10</router-link></li>
           </ul>
         </nav>
   </div>
-</template>
+</template> 
 
 <script>
 export default {
